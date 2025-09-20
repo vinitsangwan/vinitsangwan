@@ -1,0 +1,34 @@
+# Hi there 👋, I’m Vinit Sangwan
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on [add your current project or job]
+- 🌱 I’m learning [add what you're learning now]
+- 👯 I’m looking to collaborate on [e.g. open source projects, community stuff etc.]
+- 📫 How to reach me: [email / link etc.]
+- ⚡ Fun fact: [something fun about you]
+
+---
+
+### 📊 GitHub Stats
+
+![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinitsangwan&show_icons=true&theme=tokyonight)
+
+---
+
+### 🧮 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsangwan&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vinitsangwan&theme=tokyonight)
+
+---
+
+### 🏆 Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=vinitsangwan&theme=tokyonight)
+

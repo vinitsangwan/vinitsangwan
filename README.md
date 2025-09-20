@@ -2,11 +2,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on [add your current project or job]
-- 🌱 I’m learning [add what you're learning now]
-- 👯 I’m looking to collaborate on [e.g. open source projects, community stuff etc.]
-- 📫 How to reach me: [email / link etc.]
-- ⚡ Fun fact: [something fun about you]
+- 🔭 I’m currently working on my skills development in world of full stack development .
+- 🌱 I’m currenly learning JS and C++.
+- 👯 I’m looking to collaborate on e.g. open source projects, community stuff etc.
+- 📫 How to reach me: email:vinitsangwan1619235@gmailcom.
 
 ---
 

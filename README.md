@@ -2,10 +2,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on my skills development in world of full stack development .
+​- 🎓 Studying Computer Engineering at Army Institute of Technology (AIT), Pune.​
+- 🔭 I’m currently working on my skills development in world of full stack.
 - 🌱 I’m currenly learning JS and C++.
-- 👯 I’m looking to collaborate on e.g. open source projects, community stuff etc.
-- 📫 How to reach me: email:vinitsangwan1619235@gmailcom.
+- 👯  I’m looking to collaborate on exciting open-source projects.​
+- 📫 How to reach me: Connect with me on LinkedIn.
+  
 
 ---
 

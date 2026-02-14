@@ -13,7 +13,7 @@
 - 💡 Strong in Data Structures & Algorithms  
 - 🧠 Competitive Programming Enthusiast  
 - 🌐 Frontend Development Learner  
-- 🎯 Goal: To become a Top Software Engineer  
+- 🎯 Goal: To become a  Software Engineer  
 
 ---
 
@@ -41,8 +41,7 @@
 
 ## 🏆 Competitive Programming
 
-- 💪 Active on Codeforces  
-- 🧠 Daily DSA Practice  
+- 💪 Active on Codeforces    
 - 📈 Improving problem-solving skills  
 
 🔗 Codeforces:  

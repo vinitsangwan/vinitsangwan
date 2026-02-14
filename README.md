@@ -12,42 +12,40 @@
 - 🎓 B.Tech Computer Science Student  
 - 💡 Strong in Data Structures & Algorithms  
 - 🧠 Competitive Programming Enthusiast  
-- 🌐 Frontend Development Learner  
-- 🎯 Goal: To become a  Software Engineer  
+- 🌐 Frontend Developer  
+- 🎯 Goal: To become a Top Software Engineer  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
 </p>
 
 ### 🌐 Frontend Development
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
 </p>
 
 ### ⚙️ Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60"/>
 </p>
 
----
-
-## 🏆 Competitive Programming
-
-- 💪 Active on Codeforces    
-- 📈 Improving problem-solving skills  
-
-🔗 Codeforces:  
-https://codeforces.com/profile/vinitsangwan1619235
-
----
 
 ## 📌 Featured Projects
 
@@ -58,7 +56,7 @@ https://codeforces.com/profile/vinitsangwan1619235
 
 ### 🎬 Netflix Clone
 - Built using HTML, CSS  
-- Modern UI inspired by Netflix  
+- Modern Netflix-inspired UI  
 - Fully responsive landing page  
 
 ### 🧮 Calculator
@@ -88,12 +86,30 @@ https://codeforces.com/profile/vinitsangwan1619235
 
 ---
 
-## 🔥 Contribution Graph
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsangwan&theme=tokyo-night" />
+  <a href="https://www.linkedin.com/in/vinit-sangwan-85398033a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vinitsangwan1619235@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
+
+### 📩 How to Reach Me
+
+- 🔗 Click the LinkedIn icon to connect professionally  
+- 📧 Click the Gmail icon to send me an email  
+- 💬 Open to internships, collaborations & learning opportunities  
 
 ---
 
-#
+## ⚡ Quote I Believe In
+
+> "Consistency + Hard Work = Success 🚀"
+
+---
+
+⭐ From [Vinit Sangwan](https://github.com/vinitsangwan)

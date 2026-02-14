@@ -45,6 +45,26 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60"/>
 </p>
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/vinitsangwan1619235" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="60" alt="Codeforces"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="60" alt="HackerRank"/>
+  </a>
+</p>
+
+<p align="center">
+  🔹 <b>Codeforces ID:</b> vinitsangwan1619235 <br>
+  🔹 <b>HackerRank ID:</b> YOUR_HACKERRANK_USERNAME
+</p>
+
+- 💪 Active competitive programmer  
+- 🧠 Regular problem solving practice  
+- 📈 Improving rating and logical skills daily  
 
 
 ## 📌 Featured Projects

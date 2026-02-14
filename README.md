@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinit Sangwan</h1>
-<h3 align="center">💻 B.Tech CSE Student | Competitive Programmer | Aspiring Software Engineer</h3>
+<h3 align="center">💻 B.Tech CSE Student | Competitive Programmer | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Programmer;C%2B%2B+Developer;Problem+Solver;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+Programmer;Frontend+Developer;Competitive+Coder;Future+Software+Engineer" />
 </p>
 
 ---
@@ -10,22 +10,25 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Student  
-- 💡 Passionate about Data Structures & Algorithms  
+- 💡 Strong in Data Structures & Algorithms  
 - 🧠 Competitive Programming Enthusiast  
-- 🌱 Currently learning: Advanced DSA & System Design  
+- 🌐 Frontend Development Learner  
 - 🎯 Goal: To become a Top Software Engineer  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### 💻 Tools & Technologies
+### 🌐 Frontend Development
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
@@ -35,9 +38,9 @@
 
 ## 🏆 Competitive Programming
 
-- 💪 Active Codeforces Participant  
+- 💪 Active on Codeforces  
 - 🧠 Daily DSA Practice  
-- 📈 Constantly improving rating  
+- 📈 Improving problem-solving & logical thinking  
 
 🔗 Codeforces:  
 https://codeforces.com/profile/vinitsangwan1619235
@@ -46,11 +49,24 @@ https://codeforces.com/profile/vinitsangwan1619235
 
 ## 📌 Featured Projects
 
-🔹 Project 1 – Description  
-🔹 Project 2 – Description  
-🔹 Project 3 – Description  
+### 🛒 Amazon Clone
+- Built using HTML, CSS, JavaScript  
+- Responsive UI  
+- Product layout & cart interface  
 
-(Updating soon 🚀)
+### 🎵 Spotify Clone
+- Music player UI  
+- Play/Pause functionality using JavaScript  
+- Clean and modern design  
+
+### 🧮 Calculator
+- Functional calculator using JavaScript  
+- Handles basic arithmetic operations  
+
+### ✊ Rock Scissor Game
+- Interactive game using JavaScript  
+- Random computer logic  
+- Score tracking system  
 
 ---
 
@@ -86,9 +102,9 @@ https://codeforces.com/profile/vinitsangwan1619235
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Quote I Believe In
 
-> "Consistency beats motivation. I code even when I don’t feel like it."
+> "Consistency + Hard Work = Success 🚀"
 
 ---
 

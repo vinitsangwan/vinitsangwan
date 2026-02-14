@@ -50,13 +50,14 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/vinitsangwan1619235" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="80" alt="Codeforces"/>
+    <img src="https://codeforces.org/s/0/images/codeforces-logo-with-telegram.png" height="90" alt="Codeforces Logo"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Click the logo above to view my Codeforces profile 👆</b>
+  <b>Click the logo above to visit my Codeforces profile 👆</b>
 </p>
+
 
 
 - 💪 Active competitive programmer  

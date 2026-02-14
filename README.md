@@ -20,19 +20,22 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js" />
+</p>
 
 ### 🌐 Frontend Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
 ### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -40,7 +43,7 @@
 
 - 💪 Active on Codeforces  
 - 🧠 Daily DSA Practice  
-- 📈 Improving problem-solving & logical thinking  
+- 📈 Improving problem-solving skills  
 
 🔗 Codeforces:  
 https://codeforces.com/profile/vinitsangwan1619235
@@ -54,17 +57,17 @@ https://codeforces.com/profile/vinitsangwan1619235
 - Responsive UI  
 - Product layout & cart interface  
 
-### 🎵 Spotify Clone
-- Music player UI  
-- Play/Pause functionality using JavaScript  
-- Clean and modern design  
+### 🎬 Netflix Clone
+- Built using HTML, CSS  
+- Modern UI inspired by Netflix  
+- Fully responsive landing page  
 
 ### 🧮 Calculator
 - Functional calculator using JavaScript  
-- Handles basic arithmetic operations  
+- Performs basic arithmetic operations  
 
 ### ✊ Rock Scissor Game
-- Interactive game using JavaScript  
+- Interactive browser game  
 - Random computer logic  
 - Score tracking system  
 
@@ -94,18 +97,4 @@ https://codeforces.com/profile/vinitsangwan1619235
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinit-sangwan-85398033a)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vinitsangwan1619235@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/vinitsangwan1619235)
-
----
-
-## ⚡ Quote I Believe In
-
-> "Consistency + Hard Work = Success 🚀"
-
----
-
-⭐ From [Vinit Sangwan](https://github.com/vinitsangwan)
+#

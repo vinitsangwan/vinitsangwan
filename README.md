@@ -2,7 +2,7 @@
 <h3 align="center">💻 B.Tech CSE Student | Competitive Programmer | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+Programmer;Frontend+Developer;Competitive+Coder;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+Programmer;Frontend+Developer;Competitive+Coder;Python+Learner;Future+Software+Engineer" />
 </p>
 
 ---
@@ -11,40 +11,13 @@
 
 - 🎓 B.Tech Computer Science Student  
 - 💡 Strong in Data Structures & Algorithms  
-- 🧠 Competitive Programming Enthusiast  
+- 🧠 Competitive Programming Enthusiast (200+ problems solved)  
 - 🌐 Frontend Developer  
-- 🎯 Goal: To become a  Software Engineer  
+- 🐍 Basic knowledge of Python  
+- 🏆 5⭐ on HackerRank  
+- 🎯 Goal: To become a Software Engineer  
 
 ---
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-</p>
-
-### 🌐 Frontend Development
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-</p>
-
-### ⚙️ Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60"/>
-</p>
 
 ## 🏆 Competitive Programming
 
@@ -52,38 +25,61 @@
   <a href="https://codeforces.com/profile/vinitsangwan1619235" target="_blank">
     <img src="https://codeforces.org/s/0/images/codeforces-logo-with-telegram.png" height="90" alt="Codeforces Logo"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codolio.com/profile/vinit_sangwan" target="_blank">
+    <img src="https://codolio.com/favicon.ico" height="90" alt="Codolio Logo"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Click the logo above to visit my Codeforces profile 👆</b>
+  <b>Click the logos above to explore my profiles 👆</b>
 </p>
-
-
 
 - 💪 Active competitive programmer  
 - 🧠 Regular problem solving practice  
-- 📈 Improving rating and logical skills daily  
+- 📈 Continuously improving rating & problem-solving skills  
+- 🏅 Participated in **CodeFT 6.0** (CP Club, Army Institute of Technology, Pune)
 
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
+</p>
+
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
 
 ## 📌 Featured Projects
 
 ### 🛒 Amazon Clone
 - Built using HTML, CSS, JavaScript  
-- Responsive UI  
-- Product layout & cart interface  
+- Fully responsive UI  
+- Product layout with cart interface  
 
 ### 🎬 Netflix Clone
 - Built using HTML, CSS  
-- Modern Netflix-inspired UI  
-- Fully responsive landing page  
+- Modern UI inspired by Netflix  
+- Responsive landing page  
 
 ### 🧮 Calculator
 - Functional calculator using JavaScript  
 - Performs basic arithmetic operations  
 
-### ✊ Rock Scissor Game
-- Interactive browser game  
-- Random computer logic  
+### ✊ Rock Paper Scissors Game
+- Interactive browser-based game  
+- Randomized computer logic  
 - Score tracking system  
 
 ---
@@ -104,7 +100,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinit-sangwan-85398033a">
@@ -116,17 +112,12 @@
   </a>
 </p>
 
-### 📩 How to Reach Me
-
-- 🔗 Click the LinkedIn icon to connect professionally  
-- 📧 Click the Gmail icon to send me an email  
-- 💬 Open to internships, collaborations & learning opportunities  
-
 ---
 
-## ⚡ Quote I Believe In
+## ⚡ Fun Fact
 
-> "Consistency + Hard Work = Success 🚀"
+- 🚀 I believe in: **Consistency + Hard Work = Success**
+- 💻 I enjoy solving challenging problems and building projects
 
 ---
 

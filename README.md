@@ -11,10 +11,8 @@
 
 - 🎓 B.Tech Computer Science Student  
 - 💡 Strong in Data Structures & Algorithms  
-- 🧠 Competitive Programming Enthusiast (200+ problems solved)  
-- 🌐 Frontend Developer  
-- 🐍 Basic knowledge of Python  
-- 🏆 5⭐ on HackerRank  
+- 🧠 Competitive Programming Enthusiast 
+- 🌐 Frontend Developer    
 - 🎯 Goal: To become a Software Engineer  
 
 ---
@@ -38,7 +36,7 @@
 - 💪 Active competitive programmer  
 - 🧠 Regular problem solving practice  
 - 📈 Continuously improving rating & problem-solving skills  
-- 🏅 Participated in **CodeFT 6.0** (CP Club, Army Institute of Technology, Pune)
+
 
 ---
 

@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student  
-- 💡 Strong in Data Structures & Algorithms  
+- 🎓 B.Tech Computer Science Student    
 - 🧠 Competitive Programming Enthusiast 
 - 🌐 Frontend Developer    
 - 🎯 Goal: To become a Software Engineer  
@@ -24,9 +23,9 @@
     <img src="https://codeforces.org/s/0/images/codeforces-logo-with-telegram.png" height="90" alt="Codeforces Logo"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://codolio.com/profile/vinit_sangwan" target="_blank">
-    <img src="https://codolio.com/favicon.ico" height="90" alt="Codolio Logo"/>
-  </a>
+ <a href="https://codolio.com/profile/vinit_sangwan" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-Profile-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" alt="Codolio Profile"/>
+</a>
 </p>
 
 <p align="center">
@@ -34,7 +33,6 @@
 </p>
 
 - 💪 Active competitive programmer  
-- 🧠 Regular problem solving practice  
 - 📈 Continuously improving rating & problem-solving skills  
 
 

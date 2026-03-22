@@ -131,6 +131,9 @@ public:
 
 <div align="center">
 
+<a href="https://portfolio-html-jfsi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+</a>
 <a href="https://www.linkedin.com/in/vinit-sangwan-85398033a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Vinit%20Sangwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>

@@ -1,92 +1,108 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vinit%20Sangwan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time%20🚀&descSize=18&descAlignY=60&descColor=a0c4ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VINIT%20SANGWAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descSize=17&descAlignY=61&descColor=36BCF7"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=⚡+C%2B%2B+Programmer;🌐+Frontend+Developer;🧠+Problem+Solver+%7C+C%2B%2B+Wizard;🎯+Future+Software+Engineer;💻+Code.+Debug.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;React+%7C+Node.js+%7C+MongoDB;Building+projects+%26+solving+problems;Learn.+Build.+Compete.+Repeat." alt="Typing SVG"/>
 
 <br/>
 
-<!-- Profile Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=vinitsangwan&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/vinitsangwan)
-![GitHub followers](https://img.shields.io/github/followers/vinitsangwan?style=for-the-badge&color=36BCF7&labelColor=1a1b27)
+<a href="https://github.com/vinitsangwan">
+<img src="https://komarev.com/ghpvc/?username=vinitsangwan&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vinitsangwan?tab=followers">
+<img src="https://img.shields.io/github/followers/vinitsangwan?label=FOLLOWERS&style=for-the-badge&color=302b63"/>
+</a>
 
 </div>
 
 ---
 
-## 🧬 About Me
+## 👨‍💻 About Me
 
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-class VInitSangwan {
+class VinitSangwan {
 public:
-    string name     = "Vinit Sangwan";
-    string degree   = "B.Tech — Computer Science & Engineering";
-    string focus[]  = {"Competitive Programming", "Frontend Dev", "Problem Solving"};
-    string goal     = "Crack top-tier Software Engineering roles 🎯";
-    string motto    = "Consistency + Hard Work = SUCCESS 🔥";
+    string role = "Software Developer";
+    string degree = "B.Tech — Computer Science & Engineering";
 
-    void getCurrentStatus() {
-        cout << "🚀 Grinding LeetCode & Codeforces daily" << endl;
-        cout << "📦 Building cool frontend projects"      << endl;
-        cout << "🧠 Sharpening DSA + CP skills"           << endl;
-    }
+    vector<string> interests = {
+        "Competitive Programming",
+        "Data Structures & Algorithms",
+        "Full Stack Development",
+        "Problem Solving"
+    };
+
+    vector<string> currentlyLearning = {
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Backend Development",
+        "Advanced DSA"
+    };
+
+    string goal =
+        "Become a strong Software Engineer and build impactful products.";
+
+    string philosophy =
+        "Learn → Build → Break → Debug → Improve";
 };
 ```
 
+* 🎯 Focused on **DSA, Competitive Programming & Software Development**
+* 💻 Building **frontend and full-stack applications**
+* 🧠 Practicing problems on **Codeforces & LeetCode**
+* 🚀 Exploring the **MERN Stack**
+* 📈 Continuously improving my problem-solving and development skills
+
 ---
 
-## 🏆 Competitive Programming Profiles
+## 🧠 Competitive Programming
 
 <div align="center">
 
-<!-- Codeforces Badge -->
-<a href="https://codeforces.com/profile/vinitsangwan1619235" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-Vinit%20Sangwan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0a2e" height="45" alt="Codeforces"/>
+<a href="https://codeforces.com/profile/vinitsangwan1619235">
+<img src="https://img.shields.io/badge/Codeforces-1243%20%7C%20Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<!-- Codolio Custom Badge -->
-<a href="https://codolio.com/profile/vinit_sangwan" target="_blank">
-  <img src="https://img.shields.io/badge/⚡%20CODOLIO-vinit__sangwan-FF6B35?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a1a2e&color=FF6B35" height="45" alt="Codolio"/>
+<a href="https://leetcode.com/u/vinit_sangwan/">
+<img src="https://img.shields.io/badge/LeetCode-vinit__sangwan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;
+</div>
 
-<!-- LeetCode placeholder badge -->
-<a href="https://leetcode.com/vinitsangwan" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e" height="45" alt="LeetCode"/>
-</a>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-![CP Badge](https://img.shields.io/badge/🧠%20DSA%20%26%20CP-Active%20Grinder-brightgreen?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problems%20Solved-Growing%20Daily-blue?style=flat-square&logo=checkmarx)
+|      Platform     |        Profile        |           Status          |
+| :---------------: | :-------------------: | :-----------------------: |
+| 🔵 **Codeforces** | `vinitsangwan1619235` |      **1243 • Pupil**     |
+|  🟠 **LeetCode**  |    `vinit_sangwan`    | **DSA & Problem Solving** |
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💡 Languages I Speak (to Machines)
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python&theme=dark"/>
 
-### 🌐 Frontend Craft
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
 
-### ⚙️ Tools in My Belt
+### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
 </div>
 
@@ -96,71 +112,133 @@ public:
 
 <div align="center">
 
-| 🛒 Project | 🛠️ Stack | ✨ Highlights |
-|:---:|:---:|:---|
-| **Amazon Clone** | HTML, CSS, JS | Responsive UI, Product grid, Cart interface |
-| **Netflix Clone** | HTML, CSS | Modern landing page, Netflix-inspired design |
-| **Calculator App** | JavaScript | Full arithmetic operations, clean UI |
-| **Rock Paper Scissors** | HTML, CSS, JS | Randomized AI logic, Score tracker |
+### 🛒 Amazon Clone
+
+**HTML • CSS • JavaScript**
+
+E-commerce inspired frontend focused on responsive layouts and product UI.
+
+<a href="https://github.com/vinitsangwan/Amazon-Clone">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+### 🎬 Netflix Clone
+
+**HTML • CSS**
+
+Netflix-inspired interface with a modern streaming-platform layout.
+
+<a href="https://github.com/vinitsangwan/Netflix-Clone">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+### ⚛️ React Mini Projects
+
+**React**
+
+A collection of React experiments and frontend projects while learning component-based development.
+
+<a href="https://github.com/vinitsangwan/React-Miniproject-">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+### 🧠 LeetCode Solutions
+
+**C++ • DSA**
+
+My collection of competitive programming and LeetCode solutions.
+
+<a href="https://github.com/vinitsangwan/Leetcode-">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinitsangwan&show_icons=true&theme=tokyonight&border_radius=10&border_color=36BCF7&title_color=36BCF7&icon_color=f8f8f2" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitsangwan&theme=tokyonight&border_radius=10&border=36BCF7&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vinitsangwan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitsangwan&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsangwan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsangwan&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinitsangwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/vinitsangwan">
+<img src="https://img.shields.io/badge/GitHub-vinitsangwan-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vinit-sangwan-85398033a">
+<img src="https://img.shields.io/badge/LinkedIn-Vinit%20Sangwan-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-html-jfsi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:vinitsangwan1619235@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Developer Mindset
+
+**Solve problems. Build projects. Learn from failures. Repeat.**
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsangwan&layout=compact&theme=tokyonight&border_radius=10&border_color=36BCF7&title_color=36BCF7" width="40%" />
+<img src="https://img.shields.io/badge/DSA-🔥-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-🚀-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARN-🧠-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REPEAT-♻️-00C853?style=for-the-badge"/>
 
-<br/>
+<br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=vinitsangwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+⭐ **Star my repositories if you find them useful!** ⭐
 
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://portfolio-html-jfsi.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/vinit-sangwan-85398033a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Vinit%20Sangwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:vinitsangwan1619235@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-vinitsangwan1619235-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/vinitsangwan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-vinitsangwan-171515?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Vinit's Philosophy
-
-> *"Every expert was once a beginner. Keep pushing, keep building, keep grinding."*
-
-![Quote](https://img.shields.io/badge/🔥%20Consistency-Hard%20Work%20%3D%20SUCCESS-FF6B35?style=for-the-badge)
-
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-⭐ **Star my repos if you find them useful!** ⭐
 
 </div>

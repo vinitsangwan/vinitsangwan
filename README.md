@@ -120,8 +120,7 @@ E-commerce-inspired frontend featuring product layouts and responsive UI.
 
 Streaming-platform-inspired interface focused on frontend design and layout.
 
-**Tech:** HTML · CSS
-
+**Tech:** HTML · CSS · JS · React · Express · MongoDB
 <a href="https://github.com/vinitsangwan/Netflix-Clone">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>

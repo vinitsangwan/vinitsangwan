@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:302b63,100:36BCF7&height=210&section=header&text=VINIT%20SANGWAN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=60&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;React+%7C+Node.js+%7C+MongoDB;Building+Projects+%26+Solving+Problems;Learn.+Build.+Compete.+Repeat." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;React+%7C+Node.js+%7C+MongoDB;Fastify+%7C+Docker+%7C+Full+Stack;Building+Projects+%26+Solving+Problems;Learn.+Build.+Compete.+Repeat." alt="Typing SVG"/>
 
 <br/>
 
@@ -25,7 +25,8 @@ Hey! I'm **Vinit Sangwan**, a Computer Engineering student at **Army Institute o
 - 💻 Practicing Data Structures & Algorithms using C++.
 - 🧠 Solving problems on Codeforces, LeetCode, and CodeChef.
 - 🌐 Building frontend applications and exploring full-stack development.
-- ⚙️ Learning React, Node.js, Express, and MongoDB.
+- ⚙️ Working with React, Node.js, Express, Fastify, and MongoDB.
+- 🐳 Exploring Docker and containerization.
 - 🚀 Exploring new technologies and participating in coding challenges.
 - 📈 Focused on becoming a stronger problem solver and software engineer.
 
@@ -60,13 +61,13 @@ public:
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb&theme=dark" />
 </p>
 
-### 🔧 Tools & Deployment
+### 🔧 Tools, Containers & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,vercel&theme=dark" />
 </p>
 
 ---
@@ -121,6 +122,7 @@ E-commerce-inspired frontend featuring product layouts and responsive UI.
 Streaming-platform-inspired interface focused on frontend design and layout.
 
 **Tech:** HTML · CSS · JS · React · Express · MongoDB
+
 <a href="https://github.com/vinitsangwan/Netflix-Clone">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -179,7 +181,7 @@ My collection of algorithmic solutions and coding practice.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsangwan&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsangwan&theme=tokyo-night&hide_border=true&area=true&days=365&cache_seconds=1800" />
 
 </div>
 

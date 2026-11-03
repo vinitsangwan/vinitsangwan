@@ -129,6 +129,7 @@ Streaming-platform-inspired interface focused on frontend design and layout.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -169,19 +170,29 @@ My collection of algorithmic solutions and coding practice.
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitsangwan&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+</div>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsangwan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+---
+
+## 💻 Most Used Programming Languages
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsangwan&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&stats_format=percentages&size_weight=0.5&count_weight=0.5" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsangwan&theme=tokyo-night&hide_border=true&area=true&days=365&cache_seconds=1800" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinitsangwan/vinitsangwan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinitsangwan/vinitsangwan/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vinitsangwan/vinitsangwan/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 

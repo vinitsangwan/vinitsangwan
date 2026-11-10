@@ -1,24 +1,4 @@
-Here is your complete, updated profile `README.md` with **SQL, NoSQL, and System Design** integrated across the header typing animation, About Me, C++ class snippet, Tech Stack badges, and Developer Mindset tags:
 
-```markdown
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:302b63,100:36BCF7&height=210&section=header&text=VINIT%20SANGWAN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=60&descColor=ffffff"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;React+%7C+Node.js+%7C+Express+%7C+Fastify;SQL+%7C+NoSQL+(MongoDB%2C+PostgreSQL%2C+MySQL);System+Design+%7C+Scalable+Architectures;Building+Projects+%26+Solving+Problems;Learn.+Build.+Compete.+Repeat." alt="Typing SVG"/>
-
-<br/>
-
-<a href="https://github.com/vinitsangwan">
-<img src="https://komarev.com/ghpvc/?username=vinitsangwan&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" />
-</a>
-<a href="https://github.com/vinitsangwan?tab=followers">
-<img src="https://img.shields.io/github/followers/vinitsangwan?label=FOLLOWERS&style=for-the-badge&color=302b63" />
-</a>
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 

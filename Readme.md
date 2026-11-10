@@ -1,9 +1,11 @@
+Here is your complete, updated profile `README.md` with **SQL, NoSQL, and System Design** integrated across the header typing animation, About Me, C++ class snippet, Tech Stack badges, and Developer Mindset tags:
 
+```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:302b63,100:36BCF7&height=210&section=header&text=VINIT%20SANGWAN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=60&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;React+%7C+Node.js+%7C+MongoDB;Fastify+%7C+Docker+%7C+Full+Stack;Building+Projects+%26+Solving+Problems;Learn.+Build.+Compete.+Repeat." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;React+%7C+Node.js+%7C+Express+%7C+Fastify;SQL+%7C+NoSQL+(MongoDB%2C+PostgreSQL%2C+MySQL);System+Design+%7C+Scalable+Architectures;Building+Projects+%26+Solving+Problems;Learn.+Build.+Compete.+Repeat." alt="Typing SVG"/>
 
 <br/>
 
@@ -20,25 +22,27 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Vinit Sangwan**, a Computer Engineering student at **Army Institute of Technology, Pune**, passionate about software development, algorithms, and building useful projects.
+Hey! I'm **Vinit Sangwan**, a Computer Engineering student at **Army Institute of Technology, Pune**, passionate about software development, scalable system architectures, algorithms, and full-stack engineering.
 
 - 💻 Practicing Data Structures & Algorithms using C++.
 - 🧠 Solving problems on Codeforces, LeetCode, and CodeChef.
-- 🌐 Building frontend applications and exploring full-stack development.
-- ⚙️ Working with React, Node.js, Express, Fastify, and MongoDB.
-- 🐳 Exploring Docker and containerization.
-- 🚀 Exploring new technologies and participating in coding challenges.
-- 📈 Focused on becoming a stronger problem solver and software engineer.
+- 🏗️ Exploring **System Design** — High-level architecture, scalability, microservices, caching, and database design.
+- 🗄️ Working with **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB) databases.
+- 🌐 Building responsive frontend interfaces and full-stack applications with React, Node.js, Express, and Fastify.
+- 🐳 Working with Docker, containerization, and modern deployment pipelines.
+- 📈 Focused on becoming a stronger problem solver and high-impact software engineer.
 
 ```cpp
 class VinitSangwan {
 public:
-    string role = "Software Developer";
-    string focus = "DSA & Competitive Programming";
-    string stack = "MERN Stack";
+    string role         = "Software Developer";
+    string focus        = "DSA & Competitive Programming";
+    string stack        = "MERN Stack | C++ | Docker";
+    string databases    = "SQL (PostgreSQL, MySQL) & NoSQL (MongoDB)";
+    string architecture = "System Design & Distributed Scalability";
 
     string philosophy =
-        "Learn -> Build -> Debug -> Improve";
+        "Learn -> Design -> Build -> Debug -> Improve";
 };
 ```
 
@@ -55,14 +59,28 @@ public:
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend, Frameworks & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify&theme=dark" />
 </p>
+
+### 🗄️ Databases (SQL & NoSQL)
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
+</p>
+
+### 🏗️ System Design & Architecture Concepts
+
+| Concept | Technologies / Principles |
+|:---|:---|
+| **Architectural Patterns** | Client-Server, MVC, Microservices, RESTful APIs |
+| **Scalability & Performance** | Load Balancing, Horizontal/Vertical Scaling, Caching (Redis), Connection Pooling |
+| **Data Modeling** | Relational Schemas (ACID, Normalization), Document Stores (CAP theorem, NoSQL indexing) |
 
 ### 🔧 Tools, Containers & Deployment
 
@@ -94,7 +112,7 @@ public:
 
 </div>
 
-I use competitive programming to strengthen my algorithmic thinking, master data structures, and write efficient solutions.
+I use competitive programming to strengthen algorithmic problem solving, optimize time and space complexity, and write clean, efficient code.
 
 ---
 
@@ -119,9 +137,9 @@ E-commerce-inspired frontend featuring product layouts and responsive UI.
 
 ### 🎬 Netflix Clone
 
-Streaming-platform-inspired interface focused on frontend design and layout.
+Full-stack streaming platform with personalized movie recommendations, watchlist management, and TMDB API integration.
 
-**Tech:** HTML · CSS · JS · React · Express · MongoDB
+**Tech:** React · Node.js · Express · MongoDB (NoSQL) · JWT · TMDB API
 
 <a href="https://github.com/vinitsangwan/Netflix-Clone">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -148,9 +166,9 @@ A collection of projects exploring reusable components and React fundamentals.
 
 ### 🧩 LeetCode Solutions
 
-My collection of algorithmic solutions and coding practice.
+Collection of optimized algorithmic solutions and problem breakdowns.
 
-**Tech:** C++ · DSA
+**Tech:** C++ · Data Structures & Algorithms
 
 <a href="https://github.com/vinitsangwan/Leetcode-">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -248,12 +266,13 @@ My collection of algorithmic solutions and coding practice.
 
 ### ⚡ Developer Mindset
 
-**Solve problems. Build projects. Learn from failures. Repeat.**
+**Solve problems. Architect scalability. Build projects. Learn from failures. Repeat.**
 
 <img src="https://img.shields.io/badge/DSA-🔥-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-🚀-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LEARN-🧠-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REPEAT-♻️-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-🏗️-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL_&_NoSQL-🗄️-36BCF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-🚀-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REPEAT-♻️-20B2AA?style=for-the-badge" />
 
 <br/><br/>
 
@@ -262,3 +281,4 @@ My collection of algorithmic solutions and coding practice.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:302b63,100:0b1020&height=120&section=footer" />
 
 </div>
+```
